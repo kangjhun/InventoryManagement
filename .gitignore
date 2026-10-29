@@ -1,0 +1,16 @@
+# 컴파일 결과
+bin/
+*.class
+
+# Eclipse 개인 설정
+.metadata/
+.settings/
+.classpath
+.project
+
+# 개인 환경변수 및 로그
+.env
+*.log
+
+# 별도로 설치하는 JDBC 드라이버
+lib/*.jar
